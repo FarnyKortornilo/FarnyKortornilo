@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FarnyKortornilo
 - 👀 I’m interested in historical fiction
 - 🌱 I’m currently learning how to code 
-- 💞️ I’m looking to collaborate on programming 
 - 📫 I can be reached at farnyniaswanee@gmail.com
 
 <!---
